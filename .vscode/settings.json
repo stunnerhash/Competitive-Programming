@@ -2,7 +2,8 @@
   "files.associations": {
     "string": "cpp",
     "iostream": "cpp",
-    "chrono": "cpp"
+    "chrono": "cpp",
+    "vector": "cpp"
   },
   "C_Cpp.errorSquiggles": "Disabled",
   "code-runner.runInTerminal": true
